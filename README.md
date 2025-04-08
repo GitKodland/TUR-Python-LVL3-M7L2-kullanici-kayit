@@ -1,49 +1,49 @@
-# User Registration Program
+# Kullanıcı Kayıt Programı
 
-This is a program for registering a new user. It prompts the user for a login and password and saves them in a dictionary.
+Bu, yeni bir kullanıcı kaydı için hazırlanmış bir programdır. Kullanıcıdan kullanıcı adı ve şifre ister, ardından bu bilgileri bir sözlükte saklar.
 
-## Running the Program
+## Programı Çalıştırma
 
-To run the program, ensure that Python version 3.6 or higher is installed on your computer.
+Programı çalıştırmak için bilgisayarınızda Python 3.6 veya daha üst bir sürümün kurulu olduğundan emin olun.
 
-1. Download the project files to your computer.
-2. Open a terminal or command line.
-3. Navigate to the directory containing the program files.
-4. Run the program using the command:
+1. Proje dosyalarını bilgisayarınıza indirin.
+2. Terminali veya komut satırını açın.
+3. Program dosyalarının bulunduğu dizine/klasöre gidin.
+4. Aşağıdaki komutu kullanarak programı çalıştırın:
 
 ```bash
 python registration.py
 ```
 
-## Using the app
+## Programı Kullanma
 
-After launching the program, you will be prompted to enter a user login and password. Enter the data and press Enter. The program will display the updated list of users.
+Program çalıştıktan sonra, sizden bir kullanıcı adı ve şifre girmeniz istenecek. Gerekli verileri girip Enter tuşuna basın. Program, güncellenmiş kullanıcı listesini gösterecektir.
 
-## Example of Program Execution
+## Programın Çalışmasına Bir Örnek
 
 ```bash
-The following users with their passwords are already registered in the system:
-Login: user1, Password: password1
-Login: user2, Password: password2
-Login: user3, Password: password3
-Login: user4, Password: password4
-Login: user5, Password: password5
+Sistemde halihazırda kayıtlı kullanıcılar ve şifreleri:
+Kullanıcı adı: user1, Şifre: password1
+Kullanıcı adı: user2, Şifre: password2
+Kullanıcı adı: user3, Şifre: password3
+Kullanıcı adı: user4, Şifre: password4
+Kullanıcı adı: user5, Şifre: password5
 
-You can add a new user.
-Enter the login of the new user: NEWuser
-Enter the password of the new user: slfvjgdafslbhv`
-New user NEWuser successfully added.
+Yeni bir kullanıcı ekleyebilirsiniz.
+Yeni kullanıcı adını girin: NEWuser
+Yeni kullanıcının şifresini girin: slfvjgdafslbhv`
+Yeni kullanıcı NEWuser başarıyla eklendi.
 
-List of all users after adding a new one:
-The following users with their passwords are already registered in the system:
-Login: user1, Password: password1
-Login: user2, Password: password2
-Login: user3, Password: password3
-Login: user4, Password: password4
-Login: user5, Password: password5
-Login: NEWuser, Password: slfvjgdafslbhv`
+Yeni kullanıcı eklendikten sonraki tüm kullanıcı listesi:
+Sistemde halihazırda kayıtlı kullanıcılar ve şifreleri:
+Kullanıcı adı: user1, Şifre: password1
+Kullanıcı adı: user2, Şifre: password2
+Kullanıcı adı: user3, Şifre: password3
+Kullanıcı adı: user4, Şifre: password4
+Kullanıcı adı: user5, Şifre: password5
+Kullanıcı adı: NEWuser, Şifre: slfvjgdafslbhv`
 ```
 
-## Author
+## Yazar
 
 Kodland
